@@ -1,3 +1,5 @@
+Note:转载他人项目，原项目地址：https://github.com/yinkaisheng/Python-UIAutomation-for-Windows
+
 # The uiautomation module
 
 :cn:[中文版介绍](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows/blob/master/readme_cn.md)
